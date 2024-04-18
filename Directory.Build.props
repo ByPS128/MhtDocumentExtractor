@@ -1,0 +1,19 @@
+<Project>
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <LangVersion>12.0</LangVersion>
+        <FileVersion>8.0.0.0</FileVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+        <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+        <Description>Web page mht document extractor</Description>
+        <Copyright>Copyright © 2024, ByPS128</Copyright>
+        <NeutralLanguage>en</NeutralLanguage>
+        <IsPackable>false</IsPackable>
+        <IsTestProject>false</IsTestProject>
+    </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "help": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    },
+    "no params": {
+      "commandName": "Project"
+    },
+    "demo file": {
+      "commandName": "Project",
+      "commandLineArgs": "-i C:\\temp\\mht\\UNIC_Tracker.mht.txt -o C:\\temp\\mht"
+    }
+  }
+}
